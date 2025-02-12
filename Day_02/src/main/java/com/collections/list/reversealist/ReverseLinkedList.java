@@ -1,4 +1,4 @@
-package com.collection.list.reversealist;
+package com.collections.list.reversealist;
 
 import java.util.LinkedList;
 

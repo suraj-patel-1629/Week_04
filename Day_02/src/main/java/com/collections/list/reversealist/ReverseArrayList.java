@@ -1,6 +1,6 @@
 package com.collections.list.reversealist;
 
-import java.util.ArrayList;
+
 import java.util.List;
 
 public class ReverseArrayList {

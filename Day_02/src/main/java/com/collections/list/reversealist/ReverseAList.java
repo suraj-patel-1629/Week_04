@@ -31,7 +31,7 @@ public class ReverseAList {
 
         //Output
         System.out.println("Original LinkedList: " + linkedList);
-        com.collection.list.reversealist.ReverseLinkedList.reverse(linkedList);
+        ReverseLinkedList.reverse(linkedList);
         System.out.println("Reversed LinkedList: " + linkedList);
     }
 }

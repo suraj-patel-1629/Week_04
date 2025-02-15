@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class TaskManagerTest {
 
-    private final TaskManager taskManager = new TaskManager();
+    private final TaskManager taskManager = new  TaskManager();
 
     @Test
     @Timeout(value = 3, unit = TimeUnit.SECONDS)
